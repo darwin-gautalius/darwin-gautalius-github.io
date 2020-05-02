@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "https://darwin-gautalius.github.io/recall-chinese/static/css/main.5fdbe6d6.chunk.css",
+    "main.js": "https://darwin-gautalius.github.io/recall-chinese/static/js/main.bbaee902.chunk.js",
+    "main.js.map": "https://darwin-gautalius.github.io/recall-chinese/static/js/main.bbaee902.chunk.js.map",
+    "runtime-main.js": "https://darwin-gautalius.github.io/recall-chinese/static/js/runtime-main.b2435886.js",
+    "runtime-main.js.map": "https://darwin-gautalius.github.io/recall-chinese/static/js/runtime-main.b2435886.js.map",
+    "static/css/2.bde9a1be.chunk.css": "https://darwin-gautalius.github.io/recall-chinese/static/css/2.bde9a1be.chunk.css",
+    "static/js/2.c2c11318.chunk.js": "https://darwin-gautalius.github.io/recall-chinese/static/js/2.c2c11318.chunk.js",
+    "static/js/2.c2c11318.chunk.js.map": "https://darwin-gautalius.github.io/recall-chinese/static/js/2.c2c11318.chunk.js.map",
+    "index.html": "https://darwin-gautalius.github.io/recall-chinese/index.html",
+    "precache-manifest.cd658d5fbc6dcf854995e2de352facdf.js": "https://darwin-gautalius.github.io/recall-chinese/precache-manifest.cd658d5fbc6dcf854995e2de352facdf.js",
+    "service-worker.js": "https://darwin-gautalius.github.io/recall-chinese/service-worker.js",
+    "static/css/2.bde9a1be.chunk.css.map": "https://darwin-gautalius.github.io/recall-chinese/static/css/2.bde9a1be.chunk.css.map",
+    "static/css/main.5fdbe6d6.chunk.css.map": "https://darwin-gautalius.github.io/recall-chinese/static/css/main.5fdbe6d6.chunk.css.map",
+    "static/js/2.c2c11318.chunk.js.LICENSE.txt": "https://darwin-gautalius.github.io/recall-chinese/static/js/2.c2c11318.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2435886.js",
+    "static/css/2.bde9a1be.chunk.css",
+    "static/js/2.c2c11318.chunk.js",
+    "static/css/main.5fdbe6d6.chunk.css",
+    "static/js/main.bbaee902.chunk.js"
+  ]
+}
