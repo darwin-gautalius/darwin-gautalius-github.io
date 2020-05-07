@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/recall-chinese/static/css/main.526c5364.chunk.css",
-    "main.js": "/recall-chinese/static/js/main.76ecee62.chunk.js",
-    "main.js.map": "/recall-chinese/static/js/main.76ecee62.chunk.js.map",
+    "main.css": "/recall-chinese/static/css/main.4467f63e.chunk.css",
+    "main.js": "/recall-chinese/static/js/main.ce8c4fb9.chunk.js",
+    "main.js.map": "/recall-chinese/static/js/main.ce8c4fb9.chunk.js.map",
     "runtime-main.js": "/recall-chinese/static/js/runtime-main.b89e6eea.js",
     "runtime-main.js.map": "/recall-chinese/static/js/runtime-main.b89e6eea.js.map",
-    "static/css/2.5b96c271.chunk.css": "/recall-chinese/static/css/2.5b96c271.chunk.css",
-    "static/js/2.dbfec659.chunk.js": "/recall-chinese/static/js/2.dbfec659.chunk.js",
-    "static/js/2.dbfec659.chunk.js.map": "/recall-chinese/static/js/2.dbfec659.chunk.js.map",
+    "static/css/2.e469230f.chunk.css": "/recall-chinese/static/css/2.e469230f.chunk.css",
+    "static/js/2.0ec060d5.chunk.js": "/recall-chinese/static/js/2.0ec060d5.chunk.js",
+    "static/js/2.0ec060d5.chunk.js.map": "/recall-chinese/static/js/2.0ec060d5.chunk.js.map",
     "index.html": "/recall-chinese/index.html",
-    "precache-manifest.84385df764288ef936d2c5c2bde1de2c.js": "/recall-chinese/precache-manifest.84385df764288ef936d2c5c2bde1de2c.js",
+    "precache-manifest.642f5d17c80fc4b10b3593d6b46480f5.js": "/recall-chinese/precache-manifest.642f5d17c80fc4b10b3593d6b46480f5.js",
     "service-worker.js": "/recall-chinese/service-worker.js",
-    "static/css/2.5b96c271.chunk.css.map": "/recall-chinese/static/css/2.5b96c271.chunk.css.map",
-    "static/css/main.526c5364.chunk.css.map": "/recall-chinese/static/css/main.526c5364.chunk.css.map",
-    "static/js/2.dbfec659.chunk.js.LICENSE.txt": "/recall-chinese/static/js/2.dbfec659.chunk.js.LICENSE.txt"
+    "static/css/2.e469230f.chunk.css.map": "/recall-chinese/static/css/2.e469230f.chunk.css.map",
+    "static/css/main.4467f63e.chunk.css.map": "/recall-chinese/static/css/main.4467f63e.chunk.css.map",
+    "static/js/2.0ec060d5.chunk.js.LICENSE.txt": "/recall-chinese/static/js/2.0ec060d5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b89e6eea.js",
-    "static/css/2.5b96c271.chunk.css",
-    "static/js/2.dbfec659.chunk.js",
-    "static/css/main.526c5364.chunk.css",
-    "static/js/main.76ecee62.chunk.js"
+    "static/css/2.e469230f.chunk.css",
+    "static/js/2.0ec060d5.chunk.js",
+    "static/css/main.4467f63e.chunk.css",
+    "static/js/main.ce8c4fb9.chunk.js"
   ]
 }
