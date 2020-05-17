@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "55466ba3a921b015a7df07a463de61a5",
+    "revision": "f251c3852ba45f04cd53428808950bee",
     "url": "/recall-chinese/index.html"
   },
   {
-    "revision": "bab98114a69be2f47b6e",
-    "url": "/recall-chinese/static/css/2.112826c5.chunk.css"
+    "revision": "ab92e6a57e047973ecb7",
+    "url": "/recall-chinese/static/css/2.1161b3d2.chunk.css"
   },
   {
-    "revision": "c4736fe6216027d82c97",
-    "url": "/recall-chinese/static/css/main.99ac2925.chunk.css"
+    "revision": "b695a68acd7ae832119e",
+    "url": "/recall-chinese/static/css/main.9df29ed1.chunk.css"
   },
   {
-    "revision": "bab98114a69be2f47b6e",
+    "revision": "ab92e6a57e047973ecb7",
     "url": "/recall-chinese/static/js/2.99dfad71.chunk.js"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/recall-chinese/static/js/2.99dfad71.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c4736fe6216027d82c97",
-    "url": "/recall-chinese/static/js/main.97d28d2c.chunk.js"
+    "revision": "b695a68acd7ae832119e",
+    "url": "/recall-chinese/static/js/main.db4a91a1.chunk.js"
   },
   {
     "revision": "28ca49655ea088d2009e",
